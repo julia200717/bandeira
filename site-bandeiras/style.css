@@ -1,0 +1,26 @@
+.alagoas{
+    display: flex;
+    border: 3px solid black;
+    width: 600px;
+}
+
+.alagoas-1{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image: url("brasão.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alagoas-3{     
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
